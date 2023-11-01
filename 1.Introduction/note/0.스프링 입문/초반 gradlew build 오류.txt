@@ -1,0 +1,2 @@
+1. 터미널에서 경로를 cd "내 프로젝트 경로: hello-spring/hello-spring"
+2. ./gradlew build
